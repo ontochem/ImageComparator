@@ -1,10 +1,4 @@
-src/main/resources/sample/EP-1678168-B1_image_173_reactionId_0.png [H]C(=O)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC>>[H]/C(=N\N)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC
-src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_0.png *OC(=O)C(Br)([Rn])OOOOOOO>>*OC(=O)C(C)([Rn])NCCO
-src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_1.png *OC(=O)C(C)([Rn])NCCO>>*OC(=O)C(*)([6*])N(*)CCO
-src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_2.png *OC(=O)C(*)([6*])N(*)CCO>>*OC(=O)C(*)([6*])N(*)CC=O
-src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_3.png *OC(=O)C(*)([6*])N(*)CC=O>>*OC(=O)C(*)([6*])N(*)CCN(*)*.[I-]
-src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_4.png *OC(=O)C(*)([6*])N(*)CCN(*)*.[I-]>>*N(*)CCN(*)C([6*])(O)C(=O)O
-src/main/resources/sample/WO-2021090855-A1_image_1735_reactionId_0.png CCC(N)C(=O)O>>*N1C(P)OC(=O)C1CC
-src/main/resources/sample/WO-2021090855-A1_image_1735_reactionId_1.png *N1C(P)OC(=O)C1CC>>*CCC1C(=O)OC(P)N1*
-src/main/resources/sample/WO-2021090855-A1_image_1735_reactionId_2.png *CCC1C(=O)OC(P)N1*>>*CCC(C(=O)O*)N(*)CPPPPPPP
-src/main/resources/sample/WO-2021090855-A1_image_1735_reactionId_3.png *CCC(C(=O)O*)N(*)CPPPPPPP>>*CCC(C(=O)O)N(*)CP
+src/main/resources/sample/EP-1678168-B1_image_173_reactionId_0.png,[H]C(=O)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC>>[H]/C(=N\N)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC
+src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_4.png,*OC(=O)C(*)([6*])N(*)CCN(*)*.[I-]>>*N(*)CCN(*)C([6*])(O)C(=O)O
+src/main/resources/sample/WO-2021090855-A1_image_1734_reactionId_1.png,*OC(=O)C(C)([Rn])NCCO>>*OC(=O)C(*)([6*])N(*)CCO
+src/main/resources/sample/EP-1678168-B1_image_173_reactionId_0.png,[H]C(=O)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC>>[H]/C(=N\N)c1c(NCC(=O)Nc2cccc(C(F)(F)F)c2)nc(N)nc1SC
