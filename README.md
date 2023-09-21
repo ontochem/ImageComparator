@@ -3,4 +3,4 @@ when given the file path to the image and the chemical structure (SMILES), the p
 
 Instruction on how to run the code is kept in src/main/resources/Manual.pdf, which can also be accessed via the gui interface by clicking the help button from the menu bar.
 
-To compile the code using maven, a simple bash script it provided. After cloning the repository, do a bash exe.sh. The exe.sh bash script is provided here.
+To compile the code using maven, a simple bash script it provided (exe.sh). After cloning the repository, execute the bash script as "bash exe.sh".
